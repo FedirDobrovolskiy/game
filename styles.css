@@ -7,6 +7,15 @@ html {
     flex-direction: column;
 }
 
+.booba {
+    overflow:hidden ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    flex-direction: column;
+}
+
 .start_button {
     border: 1px ;
     height: 100px;
